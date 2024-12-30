@@ -34,3 +34,14 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+# Technical-University-Certificate
+
+Technical University Certificate
+This project is a comprehensive web application designed for managing student certificates at the Technical University. Key features include:
+
+Admin Dashboard: A powerful control panel for administrators to manage students and their certificates effectively.
+Student Management: Add, edit, and delete students easily through the dashboard. Supports both individual student entry and bulk uploads via Excel files.
+Certificate Search: Students can search for and view their certificates, which are enhanced with QR codes for easy verification and access.
+Excel Integration: Streamlined bulk student uploads, making it simple to manage large datasets efficiently.
+Responsive Design: Optimized for seamless use across devices, ensuring a user-friendly experience for both admins and students.
+This project is ideal for educational institutions looking for an efficient way to handle and verify student certifications.
