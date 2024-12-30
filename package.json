@@ -9,9 +9,26 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "19.0.0-rc-66855b96-20241106",
-    "react-dom": "19.0.0-rc-66855b96-20241106",
-    "next": "15.0.3"
+    "@headlessui/react": "^2.2.0",
+    "axios": "^1.7.9",
+    "cookies-next": "^5.0.2",
+    "exceljs": "^4.4.0",
+    "firebase": "^11.0.1",
+    "firebase-admin": "^13.0.2",
+    "html-to-image": "^1.11.11",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.2",
+    "lucide-react": "^0.469.0",
+    "next": "15.0.3",
+    "next-auth": "^4.24.11",
+    "node-libs-browser": "^2.2.1",
+    "qrcode": "^1.5.4",
+    "qrcode.react": "^4.1.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "styled-components": "^6.1.13",
+    "uuidv4": "^6.2.13",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "postcss": "^8",
