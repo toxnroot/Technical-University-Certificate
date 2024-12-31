@@ -19,7 +19,7 @@
     border-radius: 50%;
     border: 3px solid #1d2129;
   }
-  .text {
+  .text-down {
     /* width: calc(170px - 45px); */
     height: 100%;
     display: flex;
